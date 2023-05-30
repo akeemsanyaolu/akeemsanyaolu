@@ -1,5 +1,6 @@
 👋 Hi, I'm Akeem Sanyaolu
-- 😄 Pronouns: he/him
+
+- 📫 Reach me via email : akeemsanyaolu2@gmail.com
 <!--
 **akeemsanyaolu/akeemsanyaolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
