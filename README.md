@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Go" alt="Golang" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Nodejs" alt="Django" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Nodejs" alt="Django" width="80" height="80"/>&nbsp;
 
 </div>
 
