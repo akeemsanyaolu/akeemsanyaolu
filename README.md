@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 ---
 
-(https://git.io/streak-stats)
+
+[![GitHub Streak]](https://git.io/streak-stats)
+
