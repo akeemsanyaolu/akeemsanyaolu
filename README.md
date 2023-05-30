@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 ---
 
 
-[![GitHub Streak]](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annonymousauthority&theme=dark&background=000000)](https://git.io/streak-stats)
 
