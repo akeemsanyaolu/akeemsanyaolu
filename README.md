@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me
 
 - 👋 Hi, I'm Akeem Sanyaolu
-
+- 👨🏾‍💻 I am a software developer. I build backend systems with Django and write frontend mobile applications with Flutter. <br>
 - 📫 Reach me via email : akeemsanyaolu2@gmail.com
 <!--
 **akeemsanyaolu/akeemsanyaolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 
 ### 🔥 Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akeemsanyaolu&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akeemsanyaolu&theme=neon-dark)](https://git.io/streak-stats)
 
