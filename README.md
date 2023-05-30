@@ -1,5 +1,5 @@
-### Hi there 👋
-
+👋 Hi, I'm Akeem Sanyaolu
+- 😄 Pronouns: he/him
 <!--
 **akeemsanyaolu/akeemsanyaolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
+### 🔥 Github Stats
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annonymousauthority&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akeemsanyaolu2&theme=transparent)](https://git.io/streak-stats)
 
