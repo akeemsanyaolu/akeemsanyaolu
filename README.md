@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ### 🔥 Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akeemsanyaolu2&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akeemsanyaolu&theme=transparent)](https://git.io/streak-stats)
 
