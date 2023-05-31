@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-- 👋 Hi, I'm Akeem Sanyaolu
+- 👋 Hi, I'm Akeem Sanyaolu. <br>
 - 👨🏾‍💻 I am a software developer. I build backend systems with Django and write frontend mobile applications with Flutter. <br>
 - 📫 Reach me via email : akeemsanyaolu2@gmail.com
 <!--
