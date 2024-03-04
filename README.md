@@ -4,8 +4,6 @@
 - 👨🏾‍💻 I am a software engineer. I build backend systems with Django and Flask. I also write frontend mobile applications with Flutter. <br>
 - 📫 Reach me via email : akeemsanyaolu2@gmail.com
 <!--
-**akeemsanyaolu/akeemsanyaolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
