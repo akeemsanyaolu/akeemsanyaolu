@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me
 
 - 👋 Hi, I'm Akeem Sanyaolu. <br>
-- 👨🏾‍💻 I am a software engineer. I build backend systems with Django and Flask. I also write frontend mobile applications with Flutter. <br>
+- 👨🏾‍💻 I am a software engineer. I write frontend mobile applications with Flutter. I build backend systems with Django and Flask. <br>
 - 📫 Reach me via email : akeemsanyaolu2@gmail.com
 <!--
 
